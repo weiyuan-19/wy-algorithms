@@ -1,0 +1,5 @@
+.vscode
+docker/gcc@11_2_0.tar
+*.exe
+*.o
+*.so
